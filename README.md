@@ -38,3 +38,20 @@ In order to cancel your subscription follow the instructions below:
 ## Lessons learned
 
 From this project, I learned that the design and layout in React Native feels a lot more productive than both Kotlin and Swift after visualizing the end goal. The "hot reloading" feature in React Native was extremely helpful allowing for quick changes and live preview making it pretty time efficient. I also liked using native controls and native modules which supposedly improve performance are were faily intuitive to work with. The ability to create cross platform apps is a great plus with React Native. I did feel like the design view in XCode and Android Studio were more convinient when it came to setting up the components in an organized manner. Another con is the lack of ready-made components available in react native. The collection is quite small and I felt limited in terms of what I could do with my app. Luckily, there were some third-party component libraries I could choose from to get the job done. This is still a risk in terms of quality and reliability of that specific 3rd-part library since they are not created by the official developers and they might contain bugs or glitches or could even stop working after a while with new updates. Nonetheless, I enjoyed coding in React Native. The ready-to-apply components and my HTML/JavaScript experience made it fast and easy to work with.
+
+## Demo
+[![Demo](https://share.gifyoutube.com/2xNJGj.gif)](https://youtu.be/3Ujf0StIJ6o)
+
+## Screenshots
+
+![HomeScreenWithSampleTasks](Screenshots/HomeScreenWithSampleTasks.PNG)
+![AddNewTaskScreen](Screenshots/AddNewTaskScreen.PNG)
+![AddNewTaskScreenNoTitleError](Screenshots/AddNewTaskScreenNoTitleError.PNG)
+![AddNewTaskFilled](Screenshots/AddNewTaskFilled.PNG)
+![AddedNewTaskToHomeScreen](Screenshots/AddedNewTaskToHomeScreen.PNG)
+![EditTaskDetailsScreen](Screenshots/EditTaskDetailsScreen.PNG)
+![DatePickerPopUp](Screenshots/DatePickerPopUp.PNG)
+![DatePickerDateSaved](Screenshots/DatePickerDateSaved.PNG)
+![TaskSortedAfterDateUpdated](Screenshots/TaskSortedAfterDateUpdated.PNG)
+![TaskSortedAfterCompletion](Screenshots/TaskSortedAfterCompletion.PNG)
+![SwipeLeftToDeleteFromHomeScreen](Screenshots/SwipeLeftToDeleteFromHomeScreen.PNG)
